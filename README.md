@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kerrigan McCulloch
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment displays the forecast for ten days. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kerriganmcculloch.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The API key often acts as both a unique identifier and a secret token for authentication, and will generally have a set of access rights on the API associated with it.
+2. HTTP Request are sent to the Apixu API server.
+3. An HTTP Request to the Apixu API server consists of the base URL and the API method.
